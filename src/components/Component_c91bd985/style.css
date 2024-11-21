@@ -1,0 +1,25 @@
+.div-style-922b5475 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: 126px;
+}
+.p-style-6bcd341f {
+  flex: 0 0 auto;
+  align-self: center;
+  padding: 0;
+  margin: 0;
+  font: 500 16px Quicksand, sans-serif;
+  color: #798089;
+}
+.p-style-b60022fe {
+  flex: 0 0 auto;
+  align-self: center;
+  padding: 0;
+  margin: 0;
+  font: 500 8px Quicksand, sans-serif;
+  color: #798089;
+}

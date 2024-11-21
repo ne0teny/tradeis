@@ -1,0 +1,12 @@
+.div-style-9e74fd0c {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 21px;
+  align-items: stretch;
+  justify-content: center;
+}
+.div-style-ce7cdab4:last-child {
+  gap: 8px;
+  justify-content: space-between;
+}

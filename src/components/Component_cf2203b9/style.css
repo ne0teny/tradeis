@@ -1,0 +1,30 @@
+.div-style-6be4a30d {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+.div-style-a375dd4c {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 16px;
+  align-items: stretch;
+  justify-content: space-between;
+  height: 96px;
+}
+.div-style-15194917 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 16px;
+  align-items: stretch;
+  align-self: center;
+  justify-content: space-between;
+  min-width: 1464px;
+  height: 96px;
+  margin-top: 24px;
+}

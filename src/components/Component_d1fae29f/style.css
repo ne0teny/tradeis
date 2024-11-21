@@ -1,0 +1,27 @@
+.div-style-3295825a {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 837px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div-style-bd2b4987 {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.p-style-78498146 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 102px;
+  padding: 0;
+  padding-top: 48px;
+  margin: 0;
+  margin-left: -320px;
+  font: 500 16px Montserrat, sans-serif;
+  color: #007bff;
+  text-align: center;
+}

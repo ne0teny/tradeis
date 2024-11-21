@@ -1,0 +1,44 @@
+.div-style-7cbaf65 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 12.5px;
+  padding-bottom: 11px;
+  margin-top: 1px;
+  background: #ffc100;
+  border-radius: 15px;
+}
+.p-style-f21c9e2 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 93px;
+  padding: 0;
+  margin: 0;
+  font: 400 16px Montserrat, sans-serif;
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+}
+.p-style-a436f038 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 75px;
+  padding: 0;
+  margin: 0;
+  margin-top: 4.75px;
+  color: black;
+  text-align: center;
+}
+.span-style-cfeb2e64 {
+  font: 700 16px/16px Montserrat, sans-serif;
+  color: black;
+  text-align: center;
+}
+.span-style-246d1424 {
+  font: 700 14px/14px Montserrat, sans-serif;
+  color: black;
+  text-align: center;
+}

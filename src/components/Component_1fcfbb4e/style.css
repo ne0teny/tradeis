@@ -1,0 +1,97 @@
+.div-style-ae8965f9 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background: black;
+}
+.div-style-f8764eca {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-top: 82px;
+  padding-bottom: 79px;
+}
+.div-style-985abbe8 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div-style-8bd129e7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.p-style-c29965f3 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 234px;
+  padding: 0;
+  margin: 0;
+  font: 700 36px/25px Montserrat, sans-serif;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+.div-style-cff2e1e0 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 21.5px;
+}
+.p-style-d6c2c4a4 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 774px;
+  padding: 0;
+  margin: 0;
+  font: 500 20px Montserrat, sans-serif;
+  color: #ffc100;
+  text-align: center;
+}
+.p-style-269e39b8 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 154px;
+  padding: 0;
+  margin: 0;
+  margin-left: -16px;
+  font: 500 20px Montserrat, sans-serif;
+  color: #007bff;
+  text-align: center;
+  text-decoration-line: underline;
+}
+.div-style-2134829e {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  align-self: center;
+  justify-content: space-between;
+  min-width: 784px;
+  margin-left: -5px;
+}
+.div-style-34e3003 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  align-self: center;
+  justify-content: space-between;
+  min-width: 784px;
+  margin-top: 7px;
+  margin-left: -5px;
+}

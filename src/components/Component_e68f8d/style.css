@@ -1,0 +1,115 @@
+.div-style-4c700b2 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: -269px;
+}
+.img-style-21cc5e6b {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 447px;
+  max-width: initial;
+  height: 545px;
+  border: none;
+  object-fit: cover;
+}
+.div-style-2266d9f9 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-end;
+  align-self: center;
+  justify-content: flex-start;
+  margin-top: -268px;
+  margin-left: 111px;
+}
+.p-style-213cbfad {
+  flex: 0 0 auto;
+  align-self: flex-start;
+  padding: 0;
+  margin: 0;
+  font: 500 16px/19px Montserrat, sans-serif;
+  color: black;
+}
+.p-style-63e8159a {
+  z-index: 1;
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  margin-left: -219px;
+  font: 500 16px/19px Montserrat, sans-serif;
+  color: black;
+}
+.p-style-a1649b71 {
+  z-index: 2;
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  margin-left: 3px;
+  font: 700 16px/19px Montserrat, sans-serif;
+  color: black;
+}
+.div-style-8d3a7002 {
+  flex: 0 0 auto;
+  padding-right: 128px;
+  padding-left: 415px;
+  margin-top: -20px;
+}
+.div-style-2eb88047 {
+  position: relative;
+  box-sizing: border-box;
+  width: 395px;
+  height: 183px;
+}
+.p-style-ae776914 {
+  position: absolute;
+  left: 87px;
+  padding: 0;
+  margin: 0;
+  font: 500 16px/19px Montserrat, sans-serif;
+  color: black;
+}
+.p-style-21b366a8 {
+  position: absolute;
+  top: 32px;
+  padding: 0;
+  margin: 0;
+  font: 500 16px/19px Montserrat, sans-serif;
+  color: black;
+}
+.p-style-fb6c30d3 {
+  position: absolute;
+  top: 64px;
+  padding: 0;
+  margin: 0;
+  font: 500 16px/19px Montserrat, sans-serif;
+  color: black;
+  text-align: left;
+}
+.div-style-363c332b {
+  position: absolute;
+  top: 123px;
+  left: 1px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 200px;
+  height: 60px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+  background: #ffc100;
+  border-radius: 15px;
+}
+.p-style-dd90004b {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 700 16px Poppins, sans-serif;
+  color: black;
+  text-align: center;
+}
